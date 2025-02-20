@@ -77,11 +77,6 @@ DeviceFileEvents
 - **Author Contact**: https://www.linkedin.com/in/victorfloyd/
 - **Date**: January 5, 2025
 
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
-
 ---
 
 ## Additional Notes:
